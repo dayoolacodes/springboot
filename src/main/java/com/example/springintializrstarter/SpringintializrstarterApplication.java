@@ -1,0 +1,13 @@
+package com.example.springintializrstarter;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringintializrstarterApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringintializrstarterApplication.class, args);
+	}
+
+}
